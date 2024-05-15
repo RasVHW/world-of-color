@@ -106,46 +106,46 @@ public class WorldOfColorBlocks {
 		trapdoorGlassSilverPainted=new BlockBuilder(MOD_ID)
 			.setTextures("glass_painted_silver.png")
 			.build(new BlockTrapDoor("trapdoor.glass.silver.painted",2817,Material.glass,false));
-		trapdoorGlassWhitePainted=new BlockBuilder(MOD_ID)
+		trapdoorGlassGrayPainted=new BlockBuilder(MOD_ID)
 			.setTextures("glass_painted_white.png")
 			.build(new BlockTrapDoor("trapdoor.glass.gray.painted",2818,Material.glass,false));
-		trapdoorGlassWhitePainted=new BlockBuilder(MOD_ID)
+		trapdoorGlassBlackPainted=new BlockBuilder(MOD_ID)
 			.setTextures("glass_painted_white.png")
 			.build(new BlockTrapDoor("trapdoor.glass.black.painted",2819,Material.glass,false));
-		trapdoorGlassWhitePainted=new BlockBuilder(MOD_ID)
+		trapdoorGlassRedPainted=new BlockBuilder(MOD_ID)
 			.setTextures("glass_painted_white.png")
 			.build(new BlockTrapDoor("trapdoor.glass.red.painted",2820,Material.glass,false));
-		trapdoorGlassWhitePainted=new BlockBuilder(MOD_ID)
+		trapdoorGlassBrownPainted=new BlockBuilder(MOD_ID)
 			.setTextures("glass_painted_white.png")
 			.build(new BlockTrapDoor("trapdoor.glass.brown.painted",2821,Material.glass,false));
-		trapdoorGlassWhitePainted=new BlockBuilder(MOD_ID)
+		trapdoorGlassOrangePainted=new BlockBuilder(MOD_ID)
 			.setTextures("glass_painted_white.png")
 			.build(new BlockTrapDoor("trapdoor.glass.orange.painted",2822,Material.glass,false));
-		trapdoorGlassWhitePainted=new BlockBuilder(MOD_ID)
+		trapdoorGlassYellowPainted=new BlockBuilder(MOD_ID)
 			.setTextures("glass_painted_white.png")
 			.build(new BlockTrapDoor("trapdoor.glass.yellow.painted",2823,Material.glass,false));
-		trapdoorGlassWhitePainted=new BlockBuilder(MOD_ID)
+		trapdoorGlassGreenPainted=new BlockBuilder(MOD_ID)
 			.setTextures("glass_painted_white.png")
 			.build(new BlockTrapDoor("trapdoor.glass.green.painted",2824,Material.glass,false));
-		trapdoorGlassWhitePainted=new BlockBuilder(MOD_ID)
+		trapdoorGlassLimePainted=new BlockBuilder(MOD_ID)
 			.setTextures("glass_painted_white.png")
 			.build(new BlockTrapDoor("trapdoor.glass.lime.painted",2825,Material.glass,false));
-		trapdoorGlassWhitePainted=new BlockBuilder(MOD_ID)
+		trapdoorGlassLightBluePainted=new BlockBuilder(MOD_ID)
 			.setTextures("glass_painted_white.png")
 			.build(new BlockTrapDoor("trapdoor.glass.light.blue.painted",2826,Material.glass,false));
-		trapdoorGlassWhitePainted=new BlockBuilder(MOD_ID)
+		trapdoorGlassCyanPainted=new BlockBuilder(MOD_ID)
 			.setTextures("glass_painted_white.png")
 			.build(new BlockTrapDoor("trapdoor.glass.cyan.painted",2827,Material.glass,false));
-		trapdoorGlassWhitePainted=new BlockBuilder(MOD_ID)
+		trapdoorGlassBluePainted=new BlockBuilder(MOD_ID)
 			.setTextures("glass_painted_white.png")
 			.build(new BlockTrapDoor("trapdoor.glass.blue.painted",2828,Material.glass,false));
-		trapdoorGlassWhitePainted=new BlockBuilder(MOD_ID)
+		trapdoorGlassPurplePainted=new BlockBuilder(MOD_ID)
 			.setTextures("glass_painted_white.png")
 			.build(new BlockTrapDoor("trapdoor.glass.purple.painted",2829,Material.glass,false));
-		trapdoorGlassWhitePainted=new BlockBuilder(MOD_ID)
+		trapdoorGlassMagentaPainted=new BlockBuilder(MOD_ID)
 			.setTextures("glass_painted_white.png")
 			.build(new BlockTrapDoor("trapdoor.glass.magenta.painted",2830,Material.glass,false));
-		trapdoorGlassWhitePainted=new BlockBuilder(MOD_ID)
+		trapdoorGlassPinkPainted=new BlockBuilder(MOD_ID)
 			.setTextures("glass_painted_white.png")
 			.build(new BlockTrapDoor("trapdoor.glass.pink.painted",2831,Material.glass,false));
 
