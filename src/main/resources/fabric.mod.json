@@ -28,7 +28,7 @@
 			"rasvhw.worldofcolor.WorldOfColor"
 		],
 		"recipesReady": [
-			"rasvhw.worldofcolor.WorldOfColor"
+			"rasvhw.worldofcolor.recipes.WorldOfColorRecipes"
 		]
 	},
   "mixins": [
